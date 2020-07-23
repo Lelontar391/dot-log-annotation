@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dot.customize.log</groupId>
+  <artifactId>spring-boot-starter-dot-log</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200723144740</lastUpdated>
+  </versioning>
+</metadata>
